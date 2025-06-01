@@ -3,7 +3,7 @@ I recently graduated with a B.Tech in Computer Engineering from G. Pullaiah Coll
 
 I am actively seeking a full-time opportunity as a Software Engineer to further apply and grow my technical skills. My educational journey began at Sri Chaitanya College of Education and BVR English Medium High School, where I built a strong foundation for my technical career.
 
-I’m always eager to learn new things, collaborate on exciting projects, and connect with like-minded professionals. Feel free to reach out!
+I’m always eager to learn new things, collaborate on exciting projects, and connect with like-minded professionals. Feel free to reach out!!!
 
 
 ## 🌐 Socials:
