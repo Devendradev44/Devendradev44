@@ -1,4 +1,4 @@
-# 💫 About Me:
+3# 💫 About Me:
 I recently graduated with a B.Tech in Computer Engineering from G. Pullaiah College of Engineering and Technology (GPCET), Kurnool, Andhra Pradesh, in 2025. I am passionate about technology, especially the Internet of Things (IoT), and I have experience in both front-end and back-end development using Python.
 
 I am actively seeking a full-time opportunity as a Software Engineer to further apply and grow my technical skills. My educational journey began at Sri Chaitanya College of Education and BVR English Medium High School, where I built a strong foundation for my technical career.
